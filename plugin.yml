@@ -1,0 +1,14 @@
+name: BasicCore
+author: Jorgebyte
+api: 5.0.0
+version: 1.0.0
+
+main: Jorgebyte\BasicCore\Main
+
+permissions:
+  basiccore.player.command:
+    default: true
+  basiccore.owner.command:
+    default: op
+  basiccore.vips.command:
+    default: op

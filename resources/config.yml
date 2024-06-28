@@ -1,0 +1,16 @@
+prefix: "§8(§aPrefix§8) §7»§r "
+discord: "§bdiscord.com/url"
+
+chat_cooldown: 4
+
+
+# replaces: "{KILLS}", "{DEATHS}", "{KDR}", "{MONEY}", "{NAME}", "{DATE}", "{DAY}", "{MONTH}", "{YEAR}"
+scoreboard:
+  title: "§aMy Server"
+  lines:
+    - "§7Kills: §c{KILLS}"
+    - "§7Deaths: §c{DEATHS}"
+    - "§7KDR: §c{KDR}"
+    - "§7Money: §e${MONEY}"
+
+

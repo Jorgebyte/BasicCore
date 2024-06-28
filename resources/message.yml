@@ -1,0 +1,38 @@
+
+# Hub
+hub_create_success: "Hub spawn created successfully at {x}, {y}, {z} in world {world}"
+hub_not_set: "§cHub spawn has not been set yet"
+hub_teleport_success: "§aYou have returned to the hub"
+hub_world_not_found: "§cThe world {world} could not be found"
+
+# Repair
+repair_success_all: "§aYou have repaired all your inventory and armor"
+repair_success_hand: "§aYou have repaired your tool|armor"
+repair_error_hand: "§cThe item in your hand cannot be repaired"
+repair_success_armor: "§aYou have repaired your armor"
+
+# Player Join
+player_join_broadcast: "§a[+] §7{PLAYER}"
+
+# Player leave
+player_quit_broadcast: "§c[-] §7{PLAYER}"
+
+# PLayer Chat
+chat_cooldown_message: "§cYou must wait {TIME} seconds to be able to speak"
+
+# Home
+home_create: "§aYou have successfully created {HOME}"
+home_exists: "§cError already exists {HOME}"
+home_name_too_long: "§cThe name is too long, the limit is: {LIMIT}"
+home_teleport: "§aYou have gone to home: {HOME}"
+home_remove: "§aYou have successfully deleted this home"
+home_remove_failed: "§cError this home does not exist"
+
+# Economy
+give_success: "§aYou have given money to {PLAYER}, amount: {AMOUNT}"
+take_success: "§aYou have taken money from the player {PLAYER}, amount: {AMOUNT}"
+see_success: "§e{PLAYER} §7has ${AMOUNT}"
+success_pay: "Successfully paid ${AMOUNT} to {PLAYER}"
+success_pay_target: "You have received ${AMOUNT} from {PLAYER}"
+
+
